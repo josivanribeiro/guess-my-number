@@ -1,0 +1,97 @@
+# React Native
+node_modules/
+*.log
+*.tmp
+*.temp
+
+# macOS
+.DS_Store
+
+# Android
+/android/app/build/
+**/android/*/gradle-wrapper.jar
+**/android/*/gradle-wrapper.properties
+**/android/*/gradlew
+**/android/*/gradlew.bat
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Windows
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svd
+*.pdb
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Production
+/dist/
+build/
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.lock
+
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.tsbuildinfo
+*.eslintrc.cache
+*.eslintcache
+
+# Other
+.env
+*.local
+*.test.*
+*.test
+
+# Prettier
+.prettiercache
+
+# Metro Bundler
+*.babelrc
+*.babelrc.js
+.babelrc
+.metro
+.expo
